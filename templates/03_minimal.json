@@ -1,0 +1,16 @@
+{
+  "name": "Minimal",
+  "description": "Small clean lower-third text.",
+  "font": "Helvetica Neue",
+  "bold": false,
+  "size": 46,
+  "uppercase": false,
+  "letter_spacing": 0.5,
+  "colors": { "text": "#FFFFFF", "highlight": "#FFFFFF", "outline": "#000000B0", "shadow": "#00000090" },
+  "outline": { "width": 2, "shadow": 2 },
+  "position": { "align": "bottom", "margin_v_percent": 9, "margin_h_percent": 9 },
+  "tilt": 0,
+  "max_words_per_line": 7,
+  "max_chars_per_line": 36,
+  "animation": { "type": "none", "fade_ms": 120 }
+}

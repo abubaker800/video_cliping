@@ -1,0 +1,17 @@
+{
+  "name": "Boxed",
+  "description": "Text on a rounded dark box, current word highlighted.",
+  "font": "Arial Rounded MT Bold",
+  "bold": true,
+  "size": 62,
+  "uppercase": false,
+  "colors": { "text": "#FFFFFF", "highlight": "#7CE7FF", "outline": "#000000", "shadow": "#000000",
+              "box": "#14171FE6" },
+  "outline": { "width": 0, "shadow": 0 },
+  "position": { "align": "bottom", "margin_v_percent": 20, "margin_h_percent": 9 },
+  "tilt": 0,
+  "max_words_per_line": 4,
+  "max_chars_per_line": 22,
+  "animation": { "type": "highlight", "pop_scale": 100, "fade_ms": 0 },
+  "box": { "enabled": true, "padding": 26 }
+}

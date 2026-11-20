@@ -1,0 +1,15 @@
+{
+  "name": "Karaoke",
+  "description": "Each word fills with colour as it is spoken.",
+  "font": "Arial",
+  "bold": true,
+  "size": 76,
+  "uppercase": false,
+  "colors": { "text": "#FFFFFF", "highlight": "#FF9F1C", "outline": "#1A1A2E", "shadow": "#000000" },
+  "outline": { "width": 6, "shadow": 2 },
+  "position": { "align": "bottom", "margin_v_percent": 22, "margin_h_percent": 7 },
+  "tilt": 0,
+  "max_words_per_line": 5,
+  "max_chars_per_line": 24,
+  "animation": { "type": "karaoke", "fade_ms": 80 }
+}

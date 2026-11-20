@@ -1,0 +1,16 @@
+{
+  "name": "Gaming",
+  "description": "Thick font, green highlight, slight tilt.",
+  "font": "Impact",
+  "bold": false,
+  "size": 100,
+  "uppercase": true,
+  "letter_spacing": 1,
+  "colors": { "text": "#FFFFFF", "highlight": "#39FF14", "outline": "#0B0B0B", "shadow": "#0E3B00" },
+  "outline": { "width": 9, "shadow": 5 },
+  "position": { "align": "bottom", "margin_v_percent": 26, "margin_h_percent": 7 },
+  "tilt": 4,
+  "max_words_per_line": 2,
+  "max_chars_per_line": 14,
+  "animation": { "type": "highlight", "pop_scale": 118, "pop_ms": 70, "fade_ms": 0 }
+}

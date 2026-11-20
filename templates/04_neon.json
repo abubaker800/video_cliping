@@ -1,0 +1,18 @@
+{
+  "name": "Neon",
+  "description": "Glowing cyan text, current word glows pink.",
+  "font": "Trebuchet MS",
+  "bold": true,
+  "size": 80,
+  "uppercase": true,
+  "letter_spacing": 2,
+  "colors": { "text": "#EAFDFF", "highlight": "#FFD6F6", "outline": "#00E5FF", "shadow": "#000000",
+              "glow": "#00E5FF", "glow_highlight": "#FF2FD0" },
+  "outline": { "width": 1.5, "shadow": 0 },
+  "position": { "align": "bottom", "margin_v_percent": 24, "margin_h_percent": 7 },
+  "tilt": 0,
+  "max_words_per_line": 3,
+  "max_chars_per_line": 16,
+  "animation": { "type": "highlight", "pop_scale": 100, "fade_ms": 0 },
+  "glow": { "enabled": true, "blur": 14, "width": 10 }
+}
